@@ -55,9 +55,3 @@
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anubhavvsaha2001@gmail.com@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhavvs/)
 [![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/anubhavvs)
-
-<br>
-<a href="https://github.com/anubhavvs/github-readme-stats"><img alt="Harsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anubhavvs&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/anubhavvs/github-readme-stats"><img alt="Harsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavvs&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br>
-<a href="https://github.com/anubhavvs/github-readme-activity-graph"><img alt="anubhavvs's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anubhavvs&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
